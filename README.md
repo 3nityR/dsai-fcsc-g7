@@ -6,7 +6,7 @@
 | ----------- | ----------- |
 | Xu Jialu      | U2220758B       |
 | Zhou Ziheng   | U2222255F       |
-| Tam Yik Lock   |         |
+| Tam Yik Lock  | U2222001C       |
 
 
 ## Problem Statement
