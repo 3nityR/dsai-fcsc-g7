@@ -1,5 +1,18 @@
 # Customer Segmentation - Data Analysis with a Customer Database
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#problem-statement">Problem Statement</a></li>
+    <li><a href="#data">Data</a></li>
+    <li><a href="#approach">Approach</a></li>
+    <li><a href="#results">Results</a></li>
+    <li><a href="#learning-takeaways">Learning Takeaways</a></li>
+    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#references">References</a></li>
+  </ol>
+</details>
+
 ## Problem Statement
 
 The goal of this project is to use machine learning to analyse customer data and segment customers into distinct personality clusters. This clustering will help the company better understand its customer base, their preferences, behaviours, and needs, ultimately leading to more targeted and effective marketing strategies, improved customer satisfaction, and increased revenue.
