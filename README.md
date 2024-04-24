@@ -4,6 +4,8 @@
 
 The goal of this project is to use machine learning to analyse customer data and segment customers into distinct personality clusters. This clustering will help the company better understand its customer base, their preferences, behaviours, and needs, ultimately leading to more targeted and effective marketing strategies, improved customer satisfaction, and increased revenue.
 
+📃 [Presentation Slides](/assets/slides.pdf)
+
 ## Data
 
 The project will utilise a dataset of customer data retrieved from Kaggle, which includes:
@@ -14,23 +16,23 @@ The project will utilise a dataset of customer data retrieved from Kaggle, which
 
 The project takes the following steps:
 
-See [01-data-extraction.ipynb](/01-data-extraction.ipynb)
+📃 [01-data-extraction.ipynb](/01-data-extraction.ipynb)
 
 1. **Data extraction**: Clean the customer data, handle missing values, and perform any necessary feature engineering.
 
-See [02-data-visualisation.ipynb](/02-data-visualisation.ipynb.ipynb)
+📃 [02-data-visualisation.ipynb](/02-data-visualisation.ipynb.ipynb)
 
 2. **Data visualisation**: Conduct a thorough Exploratory Data Analysis to gain insights into the data, identify potential patterns, and guide the feature selection process.
 
-See [03-data-process.ipynb](/03-data-processing.ipynb)
+📃 [03-data-process.ipynb](/03-data-processing.ipynb)
 
 3. **Data processing**: Preprocess the customer data, encode categorical variables, scale features, and perform dimensionality reduction to facilitate effective clustering.
 
-See [04-data-clustering.ipynb](/04-data-clustering.ipynb)
+📃 [04-data-clustering.ipynb](/04-data-clustering.ipynb)
 
 4. **Data clustering**: Determine the optimal number of clusters using the elbow method and segment customers using agglomerative clustering.
 
-See [05-data-insights.ipynb](/05-data-insights.ipynb)
+📃 [05-data-insights.ipynb](/05-data-insights.ipynb)
 
 5. **Data insights**: Interpret and characterise the resulting customer personality clusters by analysing the cluster centroids, feature importances, and representative customer profiles within each cluster.
 
