@@ -59,7 +59,7 @@ Based on these insights, we recommend the following strategies for the company:
 
 ![image](https://github.com/3nityR/dsai-fcsc-g7/assets/86993236/9b7784be-3a33-463c-a229-d3bddea3c8c8)
 
-## Learning Takeaways:
+## Learning Takeaways
 
 The project allowed us to explore the concepts below that were not covered in the course's curriculum.
 
