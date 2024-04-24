@@ -2,11 +2,13 @@
 
 ## Problem Statement
 
-The goal of this project is to use machine learning to analyse customer data and segment customers into distinct personality clusters. This clustering will help the company better understand its customer base, their preferences, behaviors, and needs, ultimately leading to more targeted and effective marketing strategies, improved customer satisfaction, and increased revenue.
+The goal of this project is to use machine learning to analyse customer data and segment customers into distinct personality clusters. This clustering will help the company better understand its customer base, their preferences, behaviours, and needs, ultimately leading to more targeted and effective marketing strategies, improved customer satisfaction, and increased revenue.
 
 ## Data
 
-The project will utilise a dataset of customer data retrieved from Kaggle, which include:
+The project will utilise a dataset of customer data retrieved from Kaggle, which includes:
+
+![image](https://github.com/3nityR/dsai-fcsc-g7/assets/86993236/7db408ff-a46e-4154-a1a0-1281a1594797)
 
 ## Approach
 
@@ -36,7 +38,11 @@ See [05-data-insights.ipynb](/05-data-insights.ipynb)
 
 The project identified the following customer segments:
 
+![image](https://github.com/3nityR/dsai-fcsc-g7/assets/86993236/5e92f66d-c3fa-4967-8350-fb2aeed61099)
+
 Based on these insights, we recommend the following strategies for the company:
+
+![image](https://github.com/3nityR/dsai-fcsc-g7/assets/86993236/9b7784be-3a33-463c-a229-d3bddea3c8c8)
 
 ## Learning Takeaways:
 
@@ -61,6 +67,6 @@ The project allowed us to explore the concepts below that were not covered in th
 ## References
 
 - [Kaggle | Customer Personality Analysis Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
-- [ResearchGate | Determining The Appropiate Cluster Number Using Elbow Method for K-Means Algorithm](https://www.researchgate.net/publication/339670247_Determining_The_Appropiate_Cluster_Number_Using_Elbow_Method_for_K-Means_Algorithm)
+- [ResearchGate | Determining The Appropriate Cluster Number Using Elbow Method for K-Means Algorithm](https://www.researchgate.net/publication/339670247_Determining_The_Appropiate_Cluster_Number_Using_Elbow_Method_for_K-Means_Algorithm)
 - [IBM | What Is Principal Component Analysis (PCA)?](https://www.ibm.com/topics/principal-component-analysis)
 - [scikit-learn | AgglomerativeClustering Docs](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
